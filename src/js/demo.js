@@ -159,4 +159,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
 window.addEventListener("load", function () {
 	Canvas.setTitle("TO-DOLIST");
+	console.log("하위");
 });
